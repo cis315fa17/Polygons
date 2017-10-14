@@ -9,6 +9,8 @@ package cis315.polygons;
  *
  * @author atmanning
  */
+
+// repository : https://github.com/cis315fa17/Polygons.git
 public class Cis315Polygons {
 
     /**
@@ -16,7 +18,8 @@ public class Cis315Polygons {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Polygon triangle = new Polygon(100,100,3);
+        //Polygon triangle = new Polygon(100,100,3);
+        
     }
     
 }
